@@ -1,0 +1,21 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "dfdf",
+  "main": "index.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "fdfdf"
+  },
+  "keywords": [
+    "dfdf"
+  ],
+  "author": "dfdfd",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
